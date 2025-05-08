@@ -1,10 +1,10 @@
 <h1 align="center">Recreating Page</h1>
 
 <div align="center">
-  <strong>📂 ⚙️ 🌐</strong>
+  <strong>📂 ⚙️ 📺</strong>
 </div>
 
-Este projeto é uma recriação de uma página de navegação do site <b>[RockContent](https://rockcontent.com/)</b>, desenvolvida como parte de uma atividade da disciplina Web Design, sob orientação do professor Luis Araújo. O objetivo é praticar e aplicar os conhecimentos adquiridos em estruturação e estilização de páginas web.
+Este projeto é uma recriação de uma página de navegação do site <b>[RockContent](https://rockcontent.com/)</b>, desenvolvida como parte de uma atividade diagnóstica da disciplina Web Design, sob orientação do professor Luis Araújo. O objetivo é praticar e aplicar os conhecimentos adquiridos em estruturação e estilização de páginas web.
 
 ## ℹ️ Descrição do Projeto
 
@@ -12,3 +12,7 @@ Este projeto é uma recriação de uma página de navegação do site <b>[RockCo
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+## 📎 Considerações Finais
+Esta atividade, orientada pelo professor Luis Araújo, teve como objetivo avaliar o aprendizado prático dos conceitos de HTML5 e CSS3. Ao recriar a página de navegação do site RockContent, foi possível aplicar os conhecimentos adquiridos, trabalhando diretamente com as ferramentas de estruturação e estilização.
+
