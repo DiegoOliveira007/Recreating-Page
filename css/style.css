@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../imgs/backgroun.png);
+    background-size: cover;
+    background-position: center;
+    height: -40px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    margin: 0px 18px 0px 32px;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 7%;
+    gap: 1px;
+    flex-wrap: wrap;
+}
+
+h1{
+    color: black;
+    font-family: "Raleway", serif;
+    font-size: 50px;
+    max-width: 500px;
+    text-align: left;
+    font-weight: 360;
+    line-height: 124%;
+}
+
+p{
+    font-family: "Raleway", serif;
+    max-width: 600px;
+    margin-top: 24px;
+    font-weight: 600;
+}
+
+.cordestacada{
+    color: #6b73e9;
+}
+
+
+.imgfundo{
+    height: auto;
+    max-width: 94%;
+}
+
+.buttoncentral{
+    margin-top: 7%;
+    display: flex;
+    gap: 17px;
+}
+
+.buttoncentral i{
+    font-size: 15px;
+    align-items: center;
+}
+
+.ButtonComece{
+    background-color: #235dd9;
+    padding: 13px 27px;
+    border: none;
+    border-radius: 9px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}
+
+.ButtonComece i{
+    color: white;
+    font-size: 13px;
+    align-items: center;
+}
+
+.ButtonConversar{
+    background-color: white;
+    padding: 14px 27px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #235dd9;
+    cursor: pointer;
+    border: solid #235dd9 2px ;
+    border-radius: 9px;
+}
+
+article{
+    flex: 1;
+    min-width: 300px;
+}
+
+figure{
+    margin-top: -35px;
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+a{
+    text-decoration: none;
+    font-family: "Raleway", serif;
+    color: #a0abc0;
+    font-weight: bold;
+    font-size: 14px;
+    transition: all 0.8s;
+    transition: all 0.5s ease-in-out;
+}
+
+a:hover{
+    color: #5d6169;
+}
+
+.buttonconsult{
+    background-color: #3576ed;
+    padding: 13px 19px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 14px;
+    font-family: "Raleway", serif;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.8s;
+    transition: all 0.5s ease-in-out;
+}
+
+.buttonconsult:hover{
+    background-color: #23488b;
+    transform: scale(1.1);
+    margin-left: 12px;
+}
+
+.buttonidioma{
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: #a0abc0;
+    font-family: "Raleway", serif;
+    transition: all 0.8s;
+}
+
+nav i{
+    color: #5b5e67;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.buttonidioma:hover{
+    color: #383a3f;
+    text-decoration: underline;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
