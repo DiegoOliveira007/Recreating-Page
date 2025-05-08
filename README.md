@@ -8,7 +8,7 @@ Este projeto é uma recriação de uma página de navegação do site <b>[RockCo
 
 ## ℹ️ Descrição do Projeto
 
-<b>Recreating Page</b> é um projeto simples desenvolvido com o objetivo de recriar a página de navegação do site RockContent. A atividade demonstra o uso de técnicas básicas de estilização em CSS, sem o uso de linguagens de programação avançadas, utilizando a seguintes ferramentas:
+<b>Recreating Page</b> é um projeto simples desenvolvido com o objetivo de recriar a página de navegação do site RockContent. A atividade demonstra o uso de técnicas básicas de estilização em CSS, sem o uso de linguagens de programação avançadas, utilizando as seguintes ferramentas:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
